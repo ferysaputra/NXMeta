@@ -37,6 +37,6 @@ sudo bash -c "$(wget -q -O - https://artifactory.nxvms.dev/artifactory/nxai_open
 The network can be trained using the `train.py` script. Currently, two dataloaders are available: COCO and CSV. For training on coco, use
 
 ```
-test
+web.py
 ```
 
